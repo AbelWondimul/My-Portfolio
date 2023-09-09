@@ -1,0 +1,17 @@
+.img{
+    border-radius: 100%;
+    width:50%;
+}
+
+.btnlogo{
+    border-radius: 50%;
+    width:30px;
+}
+
+.bx{
+    
+    display:inline-flex;
+    justify-content: space-between;
+    list-style: none;
+    flex-wrap: wrap;
+}
